@@ -3,5 +3,5 @@
 
 int main(){
     char name[20]
-    printf("入你的名字“);
+    printf("this is my first program“);
 }
